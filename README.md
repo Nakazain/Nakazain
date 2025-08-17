@@ -1,4 +1,8 @@
 ## Hi there 👋 I'm Zen
+[![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=2000&color=FFF&lines=Welcome+to+my+GitHub;Enjoy+exploring)](https://git.io/typing-svg)
+
+## Streak!!
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nakazain&theme=tokyonight)](https://git.io/streak-stats)
 
 <!--
 **Nakazain/Nakazain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
