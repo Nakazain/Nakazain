@@ -2,8 +2,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=2000&color=FFF&lines=Welcome+to+my+GitHub;Enjoy+exploring+🚀)](https://git.io/typing-svg)
 
 ## My Wife
+
 <p align="center">
   <img height="200px" src="https://raw.githubusercontent.com/Nakazain/WaifuSrc/refs/heads/main/public/NakazainWife.jpg">
+  <img height="200px" src="./img/wife2.jpg">
+  <img height="200px" src="./img/wife1.jpg">
 </p>
 
 <!--
