@@ -1,8 +1,10 @@
 ## Hi there 👋 I'm Zen
 [![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=2000&color=FFF&lines=Welcome+to+my+GitHub;Enjoy+exploring+🚀)](https://git.io/typing-svg)
 
-## Streak!!
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nakazain&theme=tokyonight)](https://git.io/streak-stats)
+## My Wife
+<p align="center">
+  <img height="200px" src="https://raw.githubusercontent.com/Nakazain/WaifuSrc/refs/heads/main/public/NakazainWife.jpg">
+</p>
 
 <!--
 **Nakazain/Nakazain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
