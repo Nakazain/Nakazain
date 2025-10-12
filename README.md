@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Zen
+# Hi there 👋 I'm Zen
 [![Typing SVG](https://readme-typing-svg.demolab.com?size=24&duration=2200&color=FFF&lines=Welcome+to+my+GitHub;Enjoy+exploring+🚀)](https://git.io/typing-svg)
 
 ## My Wife
